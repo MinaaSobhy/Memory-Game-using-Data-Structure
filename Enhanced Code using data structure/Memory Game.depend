@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1650909912 source:g:\project\memory game\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<cstring>
+	<bits/stdc++.h>
+	<cmath>
+	<unistd.h>
+
+1650974011 source:f:\projects\code blocks project\memory game\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<cstring>
+	<bits/stdc++.h>
+	<cmath>
+	<unistd.h>
+
+1651257715 source:f:\projects\code blocks project\memory game\enhanced code\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<cstring>
+	<bits/stdc++.h>
+	<cmath>
+	<unistd.h>
+
+1653076671 source:d:\studies\collage\year 2\semester 2\embedded systems\data structure\memory_game\memory game\enhanced code\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<cstring>
+	<bits/stdc++.h>
+	<cmath>
+	<unistd.h>
+
